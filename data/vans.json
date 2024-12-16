@@ -1,0 +1,38 @@
+[
+    {
+        "van_id": 1,
+        "latitude": 30.0444,
+        "longitude": 31.2357,
+        "speed": 60,
+        "mileage": 16000,
+        "last_maintenance": "2024-06-01",
+        "driver_behavior": {
+            "braking": 2,
+            "acceleration": 3
+        }
+    },
+    {
+        "van_id": 2,
+        "latitude": 29.9792,
+        "longitude": 31.1342,
+        "speed": 45,
+        "mileage": 12000,
+        "last_maintenance": "2024-04-15",
+        "driver_behavior": {
+            "braking": 1,
+            "acceleration": 1
+        }
+    },
+    {
+        "van_id": 3,
+        "latitude": 39.6680,
+        "longitude": 42.2453,
+        "speed": 50,
+        "mileage": 33000,
+        "last_maintenance": "2024-05-15",
+        "driver_behavior": {
+            "braking": 2,
+            "acceleration": 5
+        }
+    }
+]
